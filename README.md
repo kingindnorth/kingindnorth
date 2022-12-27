@@ -1,3 +1,3 @@
 Hi my name is prajjawal tiwari and iam a backend developer,
-primarily i work with javascript and nodejs but i also code golang and java.
-connect to me at: kingindnorth0311@gmail.com
+primarily i work on javascript and nodejs but i also code golang and java.
+connect at: kingindnorth0311@gmail.com
